@@ -26,7 +26,7 @@
 \source{
   Meyer, H. A. (1953)
   \emph{Forest Mensuration}
-  Penns publishers.
+  Penns Valley Publishers, Inc.
 
   Ryan, T. A., Joiner, B. L. and Ryan, B. F. (1976)
   \emph{The Minitab Student Handbook}.
